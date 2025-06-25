@@ -280,7 +280,7 @@ If using XAMPP or similar, place the folder in htdocs and access it from:
 ---
 
 ## 🧩 v <a name="estructura-del-proyecto"></a>
-- `controlador/` - Game logic and session management
+- `controller/` - Game logic and session management
 - `database/` - Database connection and SQL functions
 - `public/` - User interface, styles, images, and fonts
 - `index.php/` - Main page and game access
